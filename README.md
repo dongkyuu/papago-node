@@ -1,1 +1,1 @@
-# papago-node
+# papago_node
