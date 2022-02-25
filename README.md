@@ -1,1 +1,1 @@
-# papago_node
+# papago_node (Papago API Practice)
